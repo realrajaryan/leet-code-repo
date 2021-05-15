@@ -8,6 +8,6 @@ class Solution {
                 return i+1;
             }
         }
-        return 0; //to avoid compiler error
+        return 0; //to avoid compile error
     }
 }
